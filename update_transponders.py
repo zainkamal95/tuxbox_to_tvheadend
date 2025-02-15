@@ -9,7 +9,7 @@ import datetime
 import time
 
 #tvheadend_ip="192.168.8.212"
-tvheadend_ip="192.168.5.5"
+tvheadend_ip="192.168.1.5"
 tvheadend_port="9981"
 tvheadend_user=""
 tvheadend_pass=""
